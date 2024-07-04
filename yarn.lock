@@ -4437,6 +4437,11 @@ tapable@^2.1.1, tapable@^2.2.0, tapable@^2.2.1:
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-2.2.1.tgz#1967a73ef4060a82f12ab96af86d52fdb76eeca0"
   integrity sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ==
 
+teeworlds@^2.5.3:
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/teeworlds/-/teeworlds-2.5.3.tgz#9019edde72d85b5f81f5113dfd330e9d2855a35c"
+  integrity sha512-Bn8WW0D4z2FdJKg+YbDp8WrmSxfZ+5JdL604zYfGuFFA2qZnYBi10L942aIlQq5D0i7z2GEImJb+IDTgdupT2w==
+
 terser-webpack-plugin@^5.3.10:
   version "5.3.10"
   resolved "https://registry.yarnpkg.com/terser-webpack-plugin/-/terser-webpack-plugin-5.3.10.tgz#904f4c9193c6fd2a03f693a2150c62a92f40d199"
